@@ -34,8 +34,7 @@ plugins:
 
 # timezone: Asia/Shanghai
 
-# conceal comment to enable
 collections:
-#  - publications
-#  - news
-#  - showcase
+  - publications
+  - news
+  - showcase
