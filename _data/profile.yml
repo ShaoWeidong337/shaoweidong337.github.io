@@ -8,7 +8,7 @@ positions:
 - name: Position 2 without logo
 
 
-email: "your@email.com"
+email: "shaoweidong1995[at]outlook[dot]com"
 # cv_link: link-to-your-cv-file
 gscholar: IGF8p_AAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: ShaoWeidong337
@@ -26,10 +26,9 @@ short_bio: >-
   includes: optical fiber communication, physical layer security, and signal processing. 
   </p>
   <p>
-    I received Ph.D at [NGIA](http://www.hustngia.com/) at [Huazhong University of Science and Technology](https://www.hust.edu.cn/), 2023,
-   supervised by [Prof. Lei Deng](http://faculty.hust.edu.cn/denglei2/zh_CN/index.htm) and [Prof. Mengfan Cheng](http://faculty.hust.edu.cn/cmf/zh_CN/index.htm).
+    I received Ph.D at <a href="http://www.hustngia.com/" target="_blank"> NGIA</a> at <a href="https://www.hust.edu.cn/" target="_blank"> Huazhong University of Science and Technology</a>, 2023,
+   supervised by <a href="http://faculty.hust.edu.cn/denglei2/zh_CN/index.htm" target="_blank"> Prof. Lei Deng</a> and <a href="http://faculty.hust.edu.cn/cmf/zh_CN/index.htm" target="_blank"> Prof. Mengfan Cheng</a>.
   In 2018, I received B.S in Opto-electronic Information Science and Technology at Soochow University.
-  [>> More information]()
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -45,7 +44,9 @@ education:
   date: Sep. 2018 - Jun. 2023
 - name: Soochow University
   logo: /assets/images/badges/SUDAlogo.png
-  position: B.S. in Opto-electronic Information Science and Technology
+  position: >- 
+   Opto-electronic Information Science and Technology <br/>
+   B.S.
   date: Sep. 2014 - Jun. 2018
 
 experience:
@@ -53,6 +54,10 @@ experience:
    logo: /assets/images/badges/Hisense-Broadband.png
    position: Advanced System Engineer
    date: Aug. 2023 - Sep. 2024
+ - name: School of Electronic and Information Engineering
+   logo: /assets/images/badges/SUDAlogo.png
+   position: Postdoc researcher
+   date: Oct. 2024 - now
 
 #awards:
 #- name: Award Name 2
