@@ -40,25 +40,24 @@ education:
 - name: Huazhong University of Science and Technology
   logo: /assets/images/badges/HUSTlogo.png
   position: >- 
-    Department of Cyber Science and Technology <br/>
-    Ph.D.
+    Ph.D. in Cyber Science and Technology
   date: Sep. 2018 - Jun. 2023
 - name: Soochow University
   logo: /assets/images/badges/SUDAlogo.png
   position: >- 
-   Opto-electronic Information Science and Technology <br/>
-   B.S.
+   B.S. in Opto-electronic Info. Sci. and Tech.
   date: Sep. 2014 - Jun. 2018
 
 experience:
- - name: Hisense Broadband Multimedia Technology Inc. (HBMT)
-   logo: /assets/images/badges/Hisense-Broadband.png
-   position: Advanced System Engineer
-   date: Aug. 2023 - Sep. 2024
- - name: School of Electronic and Information Engineering
-   logo: /assets/images/badges/SUDAlogo.png
-   position: Postdoc researcher
-   date: Oct. 2024 - now
+- name: School of Elec. and Info. Eng., Soochow University
+  logo: /assets/images/badges/SUDAlogo.png
+  position: Postdoc researcher
+  date: Oct. 2024 - Present
+- name: Hisense Broadband Multimedia Technology Inc. (HBMT)
+  logo: /assets/images/badges/Hisense-Broadband.png
+  position: Advanced System Engineer
+  date: Aug. 2023 - Sep. 2024
+
 
 #awards:
 #- name: Award Name 2

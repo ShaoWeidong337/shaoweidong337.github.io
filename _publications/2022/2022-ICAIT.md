@@ -5,7 +5,7 @@ selected:       true
 pub:            "2022 IEEE 14th International Conference on Advanced Infocomm Technology (ICAIT)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 pub_date:       "2022"
 
 abstract: >-
