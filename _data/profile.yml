@@ -48,15 +48,15 @@ education:
    B.S. in Opto-electronic Info. Sci. and Tech.
   date: Sep. 2014 - Jun. 2018
 
-experience:
-- name: School of Elec. and Info. Eng., Soochow University
-  logo: /assets/images/badges/SUDAlogo.png
-  position: Postdoc researcher
-  date: Oct. 2024 - Present
-- name: Hisense Broadband Multimedia Technology Inc. (HBMT)
-  logo: /assets/images/badges/Hisense-Broadband.png
-  position: Advanced System Engineer
-  date: Aug. 2023 - Sep. 2024
+#experience:
+#- name: School of Elec. and Info. Eng., Soochow University
+#  logo: /assets/images/badges/SUDAlogo.png
+#  position: Postdoc researcher
+#  date: Oct. 2024 - Present
+#- name: Hisense Broadband Multimedia Technology Inc. (HBMT)
+#  logo: /assets/images/badges/Hisense-Broadband.png
+#  position: Advanced System Engineer
+#  date: Aug. 2023 - Sep. 2024
 
 
 #awards:
