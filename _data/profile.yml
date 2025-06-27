@@ -9,7 +9,7 @@ positions:
 
 
 
-email: "shaoweidong1995[at]outlook[dot]com"
+email: "shaoweidong1995@outlook.com"
 # cv_link: link-to-your-cv-file
 gscholar: IGF8p_AAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: ShaoWeidong337
@@ -21,7 +21,7 @@ github: ShaoWeidong337
 orcid: 0000-0003-1093-9006
 researchgate: weidong-shao
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
   <p>
     Hi, there! I am currently a Postdoc researcher at <a href="www.suda.edu.cn" target="_blank"> Soochow University</a>. 
